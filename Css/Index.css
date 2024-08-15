@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    text-align: center;
+    align-items: center;
+}
+#apple-shelf {
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 50%;
+    background-color: pink;
+}
+#orange-shelf {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    border-radius: 5px;
+    width: 50%; 
+    background-color: orange;
+}
